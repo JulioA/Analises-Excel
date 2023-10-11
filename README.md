@@ -2,7 +2,7 @@
 
 *Insights gerados com tabela dinâmica e outros recursos do Excel.*
 
-Esses dados foram importados de um curso no qual concluí.
+Esses dados foram importados de um curso no qual eu concluí.
 
 Quando começamos uma análise de dados, seguimos uma ordem cronológica. Desde o entendimento do problema, perguntas a serem respondidas, aquisição dos dados, tratamento geral e por fim, a visualização deles.
 
