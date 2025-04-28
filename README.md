@@ -1,6 +1,6 @@
-# Analises-Excel
+# Analise de mapeamento de perfil Utilizando Excel.
 
-*Insights gerados com tabela dinâmica e outros recursos do Excel.*
+*KPIs geradas com tabela dinâmica e outros recursos do Excel.*
 
 Esses dados foram importados de um curso no qual eu concluí.
 
