@@ -1,4 +1,4 @@
-# Analise de mapeamento de perfil Utilizando Excel.
+# Analise de clientes e mapeamento de perfil Utilizando Excel.
 
 *KPIs geradas com tabela dinâmica e outros recursos do Excel.*
 
