@@ -56,7 +56,7 @@ A grande maioria não possui empréstimo.
 
 ![Case16](https://github.com/JulioA/Analises-Excel/assets/146854621/81a923c7-7e08-45f4-9d3e-869008bb4611)
 
-Fiz uma pesquisa e pode ser que seja mais interessante pra alguns clientes investirem o dinheiro no título de investimento e pagar a hipoteca com o juros deste investimento.Isso abre mais uma análise pra saber a diferença de preço entre os dados.
+Fiz uma pesquisa e pode ser que seja mais interessante pra alguns clientes investirem o dinheiro no título de investimento e pagar a hipoteca com o juros deste investimento, isso abre mais uma análise pra saber a diferença de preço entre os dados.
 
 ![Case17](https://github.com/JulioA/Analises-Excel/assets/146854621/081fa74e-56d7-42fc-b3d0-f21c964c7f70)
 
